@@ -1,4 +1,4 @@
-### Hi there 👋 I'm *Subhradip.*
+### Hi there 👋 I'm **Subhradip**.
 
 
 <!--
