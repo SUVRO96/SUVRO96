@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm *Subhradip*.
-A Full Stack Developer and Graduate in Pure Science.
+> A **Full Stack Developer(MERN)** and Graduate in Pure Science **(B.Sc)**.
 
 ---
 
