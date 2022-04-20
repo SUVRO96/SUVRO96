@@ -1,4 +1,4 @@
-### Hi there 👋 I'm *Subhradip*.
+### Hi 👋 I'm *Subhradip*.
 > A **Full Stack Developer(MERN)** and **Graduate** in Pure Science **(B.Sc)**.
 
 ---
