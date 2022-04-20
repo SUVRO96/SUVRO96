@@ -14,10 +14,15 @@
 * NodeJs
 * SQL
 
-##### 📫 Find Me:
-* [LinkedIn](https://www.linkedin.com/in/subhradip-nath-5b9170167/ "LinkedIn")
-* [Twitter](https://twitter.com/SubhradipNath11 "twitter")
-* **e-mail :** uniquesuvro@gmail.com
+##### 📫 Connect With Me:
+  <a href="https://www.linkedin.com/in/subhradip-nath-5b9170167/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://twitter.com/SubhradipNath11">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  
+<!--   * **E-mail:** uniquesuvro@gmail.com -->
 
 <!--
 **SUVRO96/SUVRO96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
