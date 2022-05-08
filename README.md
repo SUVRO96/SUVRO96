@@ -15,7 +15,7 @@
 * SQL
 
 #### My Projects:
-* <a href="https://steady-cannoli-a0990f.netlify.app/" target="_blank">Photography Page</a>
+* <a href="https://suvrosphotolife.netlify.app/" target="_blank">Photography Page</a>
 
 #### 📫 Connect With Me:
   <a href="https://www.linkedin.com/in/subhradip-nath-5b9170167/">
