@@ -7,9 +7,9 @@
 * Java (Programing Language)
 * HTML
 * CSS
+* JavaScript
 
 #### Curently Learning:
-* JavaScript
 * React
 * NodeJs
 * SQL
