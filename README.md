@@ -8,10 +8,11 @@
 * HTML
 * CSS
 * JavaScript
+* React
 
 #### Curently Learning:
-* React
 * NodeJs
+* ExpressJs
 * SQL
 
 #### My Projects:
