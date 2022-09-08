@@ -11,8 +11,8 @@
 * React
 
 #### Curently Learning:
-* NodeJs
-* ExpressJs
+* Node.Js
+* Express.Js
 * SQL
 
 #### My Projects:
