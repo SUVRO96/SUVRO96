@@ -9,11 +9,11 @@
 * CSS
 * JavaScript
 * React
-
-#### Curently Learning:
 * Node.Js
 * Express.Js
+* MongoDb
 * SQL
+
 
 #### Projects:
 * <a href="https://suvrosphotolife.netlify.app/" target="_blank">Photography Page</a>
