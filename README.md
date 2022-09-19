@@ -1,6 +1,6 @@
-<p>
-<img src=”https://user-images.githubusercontent.com/97626209/191072889-99302bb9-929b-4936-a382-913b4a4053bc.png" alt=”my banner”>
-                                                                                                                </p>
+<p align=”center”><img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”></p>
+                                                                                                                                         
+                                                                                                                                         
 ### Hi 👋 I'm *Subhradip*.
 > A **Full Stack Developer(MERN)** and **Graduate** in Pure Science **(B.Sc)**.
 
