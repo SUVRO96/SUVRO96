@@ -1,4 +1,4 @@
-![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/97626209/191074089-844574de-f5d9-4a80-be38-bc7e69f63e6e.png)
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/97626209/191094216-f1a9b447-7dd7-4d4f-b5ac-3bde1d563a04.png)
                                                                                                                                          
 <h3 align="center">
   Hi there, I'm Subhradip</a> 👋
