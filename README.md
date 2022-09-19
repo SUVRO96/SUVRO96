@@ -10,13 +10,16 @@
 
 
 ### 🤝 Connect with me:
+
   <a href="https://www.linkedin.com/in/subhradip-nath-5b9170167/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   <a href="https://twitter.com/SubhradipNath11">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-
+  
+  <br/>
+  
 ## 💼 Technical Skills
 
 <p>Languages:</p>
@@ -49,7 +52,9 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## Projects:
+<br/>
+
+## ✒️ Projects
   * <a href="https://suvrosphotolife.netlify.app/" target="_blank">Photography Page</a>
   * <a href="https://rock-paper-scissors-bysuvro.netlify.app/" target="_blank">Rock-Paper-Sciccors Game</a>
   * <a href="https://gitsearchbysuvro.netlify.app/" target="_blank">Github user search App</a>
