@@ -11,14 +11,12 @@
 
 ### 🤝 Connect with me:
 
-  <a href="https://www.linkedin.com/in/subhradip-nath-5b9170167/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://twitter.com/SubhradipNath11">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
+  <a href="https://www.linkedin.com/in/subhradip-nath-5b9170167/"><img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
+  <a href="https://twitter.com/SubhradipNath11"><img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a>
   
-  <br/>
+ <br/>
+ 
+  - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
   
 ## 💼 Technical Skills
 
