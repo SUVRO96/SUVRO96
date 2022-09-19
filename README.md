@@ -52,7 +52,7 @@
 
 <br/>
 
-## ✒️ Projects
+## 📝 Projects
   * <a href="https://suvrosphotolife.netlify.app/" target="_blank">Photography Page</a>
   * <a href="https://rock-paper-scissors-bysuvro.netlify.app/" target="_blank">Rock-Paper-Sciccors Game</a>
   * <a href="https://gitsearchbysuvro.netlify.app/" target="_blank">Github user search App</a>
